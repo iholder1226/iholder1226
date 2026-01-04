@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Isaiah Holder  
+# 👋 Hi, I'm Isaiah  
 ### **Full-Stack Developer — WordPress • React • Java (Spring Boot)**  
 I build **fast, scalable, modern applications** that solve real business problems.  
 Clean architecture, performance engineering, and practical problem-solving are at the center of everything I do.
